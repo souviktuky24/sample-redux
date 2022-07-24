@@ -1,4 +1,4 @@
-import App from '../components/App';
+import App from '../components/MyApp';
 import { connect } from 'react-redux';
 import { startAction } from '../redux/actions/startActions';
 import { stopAction } from '../redux/actions/stopActions';
